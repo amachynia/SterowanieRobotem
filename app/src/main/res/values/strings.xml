@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kurczak</string>
+    <string name="text1">Wybór urządzenia</string>
+    <string name="button1">Znajdź urządzenia</string>
+    <string name="buttonStart">Na przód!</string>
+    <string name="buttonStop">Stój!</string>
+    <string name="buttonSpeedUp">Przyspiesz</string>
+    <string name="buttonSlowDown">Zwolnij</string>
+    <string name="textViewSpeed">Aktualna szybkość</string>
+    <string name="textViewSpeedChange">Ustaw Szybkość</string>
+    <string name="buttonOff">Rozłącz</string>
+</resources>
